@@ -17,4 +17,4 @@ let isLoggedIn = false
 // symbol => defines uniqueness
 // object
 console.log(typeof null) // object
-console.log(udefined) // undefined;
+console.log(undefined) // undefined;
